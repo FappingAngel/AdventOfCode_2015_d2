@@ -22,6 +22,25 @@ vector<int> split (string s, char delimiter){
 
 
 int main() {
+
+    string logo = "           ^7JYYJ7:           \n"
+                  "         .JGBBGGBBGJ.         \n"
+                  ":::::::. ?BGGGGGGGGB? .:::::::\n"
+                  "PGGGGGGJ 7BGGGGGGGGB! JGGGGGGP\n"
+                  "JBGGGGGG! !PGBBBBGP! !GGGGGGBJ\n"
+                  ".5BGGGGGGY~:^!77!^:~YGGGGGGB5.\n"
+                  " .YBGGGGGGGPYJ??JYPGGGGGGGBY. \n"
+                  "   !5GBGGGGGGBBBGGGGGGGBG5!   \n"
+                  "    .~JPGBBGGGGGGGGBBGPJ~.    \n"
+                  "       .^!?Y555555Y?!^.       \n"
+                  "\n"
+                  "   BERUFSGENOSSENSCHAFT FÜR   \n"
+                  "   HANDEL UND WARENLOGISTIK   \n";
+
+    cout <<logo<<endl;
+
+
+
     int ribbon = 0;
     int ergebnis = 0;
     string line;
