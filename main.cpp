@@ -33,7 +33,7 @@ int main() {
                   "   !5GBGGGGGGBBBGGGGGGGBG5!   \n"
                   "    .~JPGBBGGGGGGGGBBGPJ~.    \n"
                   "       .^!?Y555555Y?!^.       \n"
-                  "\n"
+                  "                              \n"
                   "   BERUFSGENOSSENSCHAFT FÜR   \n"
                   "   HANDEL UND WARENLOGISTIK   \n";
 
